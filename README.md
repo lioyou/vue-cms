@@ -19,7 +19,7 @@ npm run dev
 ![首页面](image/index.png)
 ![多Tab界面](image/index-tabs.png)
 ![表单创建](image/form-create.png)
-![表单更新](image/form-delete.png)
+![表单更新](image/form-update.png)
 ![表单删除](image/form-delete.png)
 ![表单验证](image/form-validator.png)
 ![登录](image/login.png)
