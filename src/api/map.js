@@ -1,0 +1,36 @@
+//表单列名称映射
+const map = {
+    code: '代号',
+    ctime: '创建时间',
+    description: '描述',
+    id: '编号',
+    name: '名称',
+    order: '排序',
+    orders: '排序',
+    pid: '父类',
+    url: '链接',
+    target: '跳转方式',
+    topicId: '主题编号',
+    title: '标题',
+    author: '作者',
+    fromurl: '来源',
+    image: '图片路径',
+    keywords: '关键字',
+    type: '类型',
+    alias: '别名',
+    icon: '图标',
+    level: '级别',
+    systemId: '系统编号',
+    allowcomments: '允许评论',
+    content: '内容',
+    readnumber: '阅读量',
+    status: '状态',
+    agent: '代理',
+    articleId: '文章编号',
+    userId: '用户编号',
+    update: '修改',
+    create: '创建',
+    delete: '删除'
+}
+
+export default map
